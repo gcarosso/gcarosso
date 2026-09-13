@@ -1,4 +1,4 @@
-**[Giovanni Carosso](https://gcarosso.bio)** — Bioengineer and biotech operator building ML-native drug discovery engines for epigenetic medicine, and research tools where biotech meets capital.
+**[Giovanni Carosso](https://gcarosso.bio)** — Bioengineer and biotech operator building modality platforms for epigenetic medicine and analytical tools connecting biological evidence to investment decisions.
 
 **SAROS** — 2026–28 clinical-trial landscape, mapped to the money around it. [Open](https://saros.gcarosso.bio) · [Source](https://github.com/gcarosso/saros)
 
