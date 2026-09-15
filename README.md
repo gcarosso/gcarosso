@@ -2,4 +2,6 @@
 
 **SAROS** — 2026–28 clinical-trial landscape, mapped to the money around it. [Open](https://saros.gcarosso.bio) · [Source](https://github.com/gcarosso/saros)
 
+**Conclave** — coordinate Claude, Codex, Gemini, and Grok from one working session: task routing, cross-model review, council, recorded checks. [Docs](https://github.com/gcarosso/conclave#readme) · [Source](https://github.com/gcarosso/conclave)
+
 [gcarosso.bio](https://gcarosso.bio) · [Google Scholar](https://scholar.google.com/citations?user=bf1VuecAAAAJ) · [LinkedIn](https://www.linkedin.com/in/giovannicarosso)
