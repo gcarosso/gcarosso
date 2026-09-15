@@ -1,4 +1,4 @@
-**[Giovanni Carosso](https://gcarosso.bio)** — Bioengineer and biotech operator building novel therapeutic modalities and analytical tools connecting biological evidence to investment decisions.
+**[Giovanni Carosso](https://gcarosso.bio)** — Bioengineer building novel therapeutic modalities and analytical tools connecting biological evidence to investment decisions.
 
 **SAROS** — 2026–28 clinical-trial landscape, mapped to the money around it. [Open](https://saros.gcarosso.bio) · [Source](https://github.com/gcarosso/saros)
 
